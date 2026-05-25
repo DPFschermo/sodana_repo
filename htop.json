@@ -1,0 +1,9 @@
+{
+  "name": "htop",
+  "version": "3.3.0",
+  "source": "https://github.com/htop-dev/htop/archive/refs/tags/3.3.0.tar.gz",
+  "build_system": "make",
+  "dependencies": [
+    "ncurses"
+  ]
+}
