@@ -2,5 +2,9 @@
   "htop": {
     "version": "3.3.1",
     "description": "Interactive process viewer for Unix systems"
+  },
+  "neofetch": {
+    "version": "7.1.0",
+    "description": "A fast, highly customizable system info script"
   }
 }
