@@ -1,6 +1,6 @@
 {
   "name": "htop",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "source": "https://github.com/htop-dev/htop/archive/refs/tags/3.3.0.tar.gz",
   "build_system": "autotools",
   "dependencies": [
