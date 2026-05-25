@@ -1,0 +1,6 @@
+{
+  "htop": {
+    "version": "3.3.0",
+    "description": "Interactive process viewer for Unix systems"
+  }
+}
