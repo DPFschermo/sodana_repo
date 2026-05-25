@@ -1,0 +1,10 @@
+{
+  "name": "lavat",
+  "version": "3.0.0",
+  "description": "Lava lamp simulation using metaballs in the terminal",
+  "source": "https://github.com/AngelJumbo/lavat/archive/refs/tags/v3.0.0.tar.gz",
+  "build_system": "make",
+  "config_args": [],
+  "dependencies": [],
+  "patches": []
+}

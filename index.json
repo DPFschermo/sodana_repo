@@ -6,5 +6,9 @@
   "neofetch": {
     "version": "7.1.0",
     "description": "A fast, highly customizable system info script"
+  },
+  "lavat": {
+    "version": "3.0.0",
+    "description": "A simple 16-color lava lamp script"
   }
 }
