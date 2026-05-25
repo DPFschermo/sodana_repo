@@ -6,5 +6,6 @@
   "build_system": "make",
   "config_args": [],
   "dependencies": [],
-  "patches": []
+  "patches": [],
+  "sha256": "c5364203a75395953560b173fae90c316b753a046acb8f557c9e684eec6d76ba"
 }

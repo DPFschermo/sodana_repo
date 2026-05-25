@@ -1,9 +1,17 @@
 {
   "name": "htop",
-  "version": "3.3.1",
+  "version": "3.3.0",
+  "description": "An interactive process viewer for Unix systems",
   "source": "https://github.com/htop-dev/htop/archive/refs/tags/3.3.0.tar.gz",
+  "sha256": "1e5cc328eee2bd1acff89f860e3179ea24b85df3ac483433f92a29977b14b045",
   "build_system": "autotools",
+  "config_args": [
+    "--enable-unicode",
+    "--enable-openvz",
+    "--enable-vserver"
+  ],
   "dependencies": [
     "ncurses"
-  ]
+  ],
+  "patches": []
 }
